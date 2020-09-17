@@ -2,7 +2,8 @@
 
 Cloning Netflix following Clever Programmer tutorial.
 
-![Design preview for Relaxer App](./preview.png)
+![Design preview for Relaxer App](./
+.png)
 
 Content was from themoviedb api.
 
